@@ -1,4 +1,4 @@
-
+### Day 21 Nov
 
 # a= [1,2,3,4,5,6]
 # print(type(a))
@@ -126,15 +126,16 @@
 #     print("Invalid Mark")
 
 
-x = float(input("Enter the Mark: "))
+# x = float(input("Enter the Mark: "))
 
-if x < 0 or x > 100:
-    print("Invalid Mark")
-elif x >= 90:
-    print("A")
-elif x >= 75:
-    print("B")
-elif x >= 50:
-    print("C")
-else:
-    print("Fail")
+# if x < 0 or x > 100:
+#     print("Invalid Mark")
+# elif x >= 90:
+#     print("A")
+# elif x >= 75:
+#     print("B")
+# elif x >= 50:
+#     print("C")
+# else:
+#     print("Fail")
+
